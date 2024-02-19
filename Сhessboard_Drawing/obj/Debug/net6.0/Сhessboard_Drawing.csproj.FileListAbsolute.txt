@@ -1,0 +1,15 @@
+C:\Users\gavri\Documents\3 курс\учебная практика\Task№1_Week1_Gavrilova\Сhessboard_Drawing\bin\Debug\net6.0\Сhessboard_Drawing.exe
+C:\Users\gavri\Documents\3 курс\учебная практика\Task№1_Week1_Gavrilova\Сhessboard_Drawing\bin\Debug\net6.0\Сhessboard_Drawing.deps.json
+C:\Users\gavri\Documents\3 курс\учебная практика\Task№1_Week1_Gavrilova\Сhessboard_Drawing\bin\Debug\net6.0\Сhessboard_Drawing.runtimeconfig.json
+C:\Users\gavri\Documents\3 курс\учебная практика\Task№1_Week1_Gavrilova\Сhessboard_Drawing\bin\Debug\net6.0\Сhessboard_Drawing.dll
+C:\Users\gavri\Documents\3 курс\учебная практика\Task№1_Week1_Gavrilova\Сhessboard_Drawing\bin\Debug\net6.0\Сhessboard_Drawing.pdb
+C:\Users\gavri\Documents\3 курс\учебная практика\Task№1_Week1_Gavrilova\Сhessboard_Drawing\obj\Debug\net6.0\Сhessboard_Drawing.csproj.AssemblyReference.cache
+C:\Users\gavri\Documents\3 курс\учебная практика\Task№1_Week1_Gavrilova\Сhessboard_Drawing\obj\Debug\net6.0\Сhessboard_Drawing.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gavri\Documents\3 курс\учебная практика\Task№1_Week1_Gavrilova\Сhessboard_Drawing\obj\Debug\net6.0\Сhessboard_Drawing.AssemblyInfoInputs.cache
+C:\Users\gavri\Documents\3 курс\учебная практика\Task№1_Week1_Gavrilova\Сhessboard_Drawing\obj\Debug\net6.0\Сhessboard_Drawing.AssemblyInfo.cs
+C:\Users\gavri\Documents\3 курс\учебная практика\Task№1_Week1_Gavrilova\Сhessboard_Drawing\obj\Debug\net6.0\Сhessboard_Drawing.csproj.CoreCompileInputs.cache
+C:\Users\gavri\Documents\3 курс\учебная практика\Task№1_Week1_Gavrilova\Сhessboard_Drawing\obj\Debug\net6.0\Сhessboard_Drawing.dll
+C:\Users\gavri\Documents\3 курс\учебная практика\Task№1_Week1_Gavrilova\Сhessboard_Drawing\obj\Debug\net6.0\refint\Сhessboard_Drawing.dll
+C:\Users\gavri\Documents\3 курс\учебная практика\Task№1_Week1_Gavrilova\Сhessboard_Drawing\obj\Debug\net6.0\Сhessboard_Drawing.pdb
+C:\Users\gavri\Documents\3 курс\учебная практика\Task№1_Week1_Gavrilova\Сhessboard_Drawing\obj\Debug\net6.0\Сhessboard_Drawing.genruntimeconfig.cache
+C:\Users\gavri\Documents\3 курс\учебная практика\Task№1_Week1_Gavrilova\Сhessboard_Drawing\obj\Debug\net6.0\ref\Сhessboard_Drawing.dll
